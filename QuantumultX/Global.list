@@ -34,6 +34,13 @@ IP-CIDR,54.173.34.141/32,PROXY
 IP-CIDR,54.235.23.242/32,PROXY
 IP-CIDR,169.45.248.118/32,PROXY
 
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
+DOMAIN-SUFFIX,googlevideo.com,PROXY
+DOMAIN-SUFFIX,youtube.com,PROXY
+DOMAIN,youtubei.googleapis.com,PROXY
+
 #个人补充
 DOMAIN-SUFFIX,tmall.com,PROXY // 天猫
 DOMAIN-SUFFIX,exhentai.org,PROXY
