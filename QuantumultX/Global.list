@@ -42,5 +42,5 @@ DOMAIN-SUFFIX,youtube.com,PROXY
 DOMAIN,youtubei.googleapis.com,PROXY
 
 #个人补充
-DOMAIN-SUFFIX,tmall.com,PROXY // 天猫
+DOMAIN-SUFFIX,tmall.com,PROXY
 DOMAIN-SUFFIX,exhentai.org,PROXY
