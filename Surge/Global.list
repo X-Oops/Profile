@@ -33,3 +33,11 @@ IP-CIDR,54.162.243.80/32,no-resolve
 IP-CIDR,54.173.34.141/32,no-resolve
 IP-CIDR,54.235.23.242/32,no-resolve
 IP-CIDR,169.45.248.118/32,no-resolve
+
+#个人补充
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhidao.baidu.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,bilibili.com
