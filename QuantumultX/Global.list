@@ -44,7 +44,7 @@ DOMAIN,youtubei.googleapis.com,PROXY
 #个人补充
 DOMAIN-SUFFIX,tmall.com,PROXY
 DOMAIN-SUFFIX,exhentai.org,PROXY
-DOMAIN-SUFFIX,zhihu.com,PROXY
+#DOMAIN-SUFFIX,zhihu.com,PROXY
 DOMAIN-SUFFIX,zhidao.baidu.com,PROXY
 DOMAIN-SUFFIX,douban.com,PROXY
 DOMAIN-SUFFIX,bilibili.com,PROXY
